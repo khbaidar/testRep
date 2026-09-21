@@ -1,0 +1,2 @@
+gestiik = "hello"
+print(gestiik)

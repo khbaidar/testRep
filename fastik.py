@@ -1,2 +1,2 @@
-testiik = "привет"
-print(testiik)
+gestiik = "hello"
+print(gestiik)

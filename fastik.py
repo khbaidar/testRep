@@ -1,0 +1,2 @@
+testiik = "привет"
+print(testiik)
